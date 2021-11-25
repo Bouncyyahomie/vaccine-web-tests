@@ -9,7 +9,7 @@ pip install -r requirements.txt
 ## Running tests
 
 ```
-robot ./vaccine_web_tests.robot
+python -m robot ./test_service_taker.robot
 ```
 
 ## Test case list
